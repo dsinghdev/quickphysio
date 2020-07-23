@@ -3331,12 +3331,13 @@
 			}
 
 			.wrapper.style3 p {
-				text-transform: uppercase;
-				font-size: .75rem;
-				font-weight: 300;
+			
+				font-size: 1.5rem;
+				font-weight: 800;
 				margin: 0 0 .5rem 0;
 				padding: 0 0 1rem 0;
 				letter-spacing: .25rem;
+
 			}
 
 				.wrapper.style3 p:after {
@@ -4159,7 +4160,7 @@
 				}
 
 			.banner > article h2 {
-				font-size: 7rem;
+				font-size: 5rem;
 				margin-bottom: 0;
 				color: #FFF;
 				font-weight: 300;
@@ -4242,6 +4243,10 @@
 			.banner > article {
 				background-attachment: scroll;
 			}
+			.banner > article h2 {
+				font-size: 3em;
+			}
+
 
 		}
 
@@ -4256,7 +4261,7 @@
 			}
 
 			.banner > article h2 {
-				font-size: 4em;
+				font-size: 2em;
 			}
 
 		}
